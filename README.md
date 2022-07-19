@@ -17,4 +17,4 @@ Click [HERE](https://github.com/oterrab/portfolio-projects/) for my projects
 
 ## 🙌🏻 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/lucas-passos-barreto-93b84351/)
+[LinkedIn](https://www.linkedin.com/in/lucaspassosbarreto/)
