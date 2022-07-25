@@ -6,6 +6,8 @@ I'm Lucas Barreto, a learning data scientist based in Brazil. I consider myself 
 **Languages:** SQL, Python, R. <br/>
 **Skills:** Data Cleaning and Wrangling, EDA, Data Visualisation, Data Analysis, Relational Databases. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oterrab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📚 Projects
 Click [HERE](https://github.com/oterrab/portfolio-projects/) for my projects
 
