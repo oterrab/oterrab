@@ -22,7 +22,7 @@ I'm Lucas Barreto, a learning data scientist based in Brazil. I consider myself 
 ## 📚 Projects
 💻 Click [HERE](https://github.com/oterrab/portfolio-projects/) for my portifolio projects
 
-<p align="left"><strong>Working on  </strong>
+<p align="left"><strong>Working as volunteer on  </strong>
 <a href="https://github.com/basedosdados/mais" target="blank"><img align="center" src="https://github.com/basedosdados/mais/raw/master/docs/images/bdmais_logo.png" alt="Base dos Dados Mais" width="70" /></a>
 </p>
 
