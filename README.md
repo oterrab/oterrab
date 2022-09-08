@@ -28,7 +28,7 @@ I'm Lucas Barreto, a learning data scientist based in Brazil. I consider myself 
 
 ## ⚡️ About Me
 
-💼 Currently employed for [Reply](https://www.reply.com/en/)
+💼 Currently employed by [Reply](https://www.reply.com/en/)
 
 🔖 Please have a look at my [Curriculum Vitae](https://drive.google.com/file/d/1xxawgEzgt-Oybd_eQlSKTI27pfeckPhZ/view?usp=sharing) for more details about me.
 
